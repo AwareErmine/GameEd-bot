@@ -21,22 +21,23 @@ Help commands:
 
 AKA: `csos` `chelp`
 
-Help with card-playing commands. 
-Displays like a "pamphlet" in guild channels, but shows a complete list of card commands in direct messages.
+- Help with card-playing commands. 
+- Displays like a "pamphlet" in guild channels, but shows a complete list of card commands in direct messages.
 
 
 `mafia_help`
 
 AKA: `msos` `melp` `mhelp`
 
-Help with playing mafia, shows command names and basic descriptions of commands.
+- Help with playing mafia, shows command names and basic descriptions of commands.
 
 
 `help_help`
 
 AKA: `meta-help` `help` `SOS` `hh`
 
-Misc. commands and their basic descriptions.
+- Misc. commands and their basic descriptions.
+
 
 Ways to join/leave a card game:
 -------------------------------
@@ -279,3 +280,19 @@ Mafia info commands:
 AKA: `mpt` `mgt`
 
 - How long you've been playing mafia for, in minutes and seconds
+
+Misc. commands:
+---------------
+
+`space`
+
+AKA: `sky`
+
+- Displays a clear night sky
+
+
+`add_gamEd`
+
+AKA: `ad` `ge`
+
+- Gives a link to invite the bot to another bot
