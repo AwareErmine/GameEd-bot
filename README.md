@@ -181,12 +181,14 @@ AKA: `tt` `untable`
 - You can untable anyone's cards
 
 `table_random`
+
 AKA: `tr` `rt`
 
 - Tables a random card from the discard/"Nobody" section
 - Doesn't save the random card to the table's "Nobody" section
 
 `table_nobody`
+
 AKA: `tn` `nt`
 
 - Puts a random, unassigned card from the deck onto the table's "Nobody" section
@@ -194,6 +196,7 @@ AKA: `tn` `nt`
 - Saves the card to the table's "Nobody" section
 
 `table`
+
 AKA: `t`
 
 - Sends the game "table"
