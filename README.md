@@ -26,18 +26,20 @@ Displays like a "pamphlet" in guild channels, but shows a complete list of card 
 
 
 `mafia_help`
+
 AKA: `msos` `melp` `mhelp`
 
 Help with playing mafia, shows command names and basic descriptions of commands.
 
 
 `help_help`
+
 AKA: `meta-help` `help` `SOS` `hh`
 
 Misc. commands and their basic descriptions.
 
 Ways to join/leave a card game:
--------------------------
+-------------------------------
 `mention_card_game`
 
 AKA: `mcg`
