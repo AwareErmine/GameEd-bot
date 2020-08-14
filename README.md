@@ -211,7 +211,7 @@ Ways to join/leave a mafia game:
   - A seer
    - Can check if a person is mafia or not each night
   - Two masons
-   - Gets told about the other mason (both are villager)
+   - Gets told about the other mason (both are villagers)
 - If everyone joins using `join_mafia_game`, you won't get the bonus roles
 
 
