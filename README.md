@@ -15,8 +15,8 @@ Key features:
    * Plus a "table" for moving around/managing cards
 - Polls/role assignments for playing mafia
 
-All card commands:
--------------
+Ways to start/end a card game:
+-------------------------
 `mention_card_game`
 
 AKA: `mcg`
@@ -31,6 +31,18 @@ AKA: `rcg`
 
 AKA: `vcg`
 
+
+`join_card_game`
+
+AKA: `jcg`
+
+
+`leave_card_game`
+
+AKA: `lcg`
+
+Dealing cards:
+-------------
 
 `shuffle`
 
@@ -47,19 +59,16 @@ AKA: `dce`
 AKA: `dcn` `dnc`
 
 
+`reset_deck`
+
+AKA: `rd`
+
+Getting card info:
+-----------------
+
 `my_cards`
 
 AKA: `mc`
-
-
-`play_card`
-
-AKA: `pc`
-
-
-`draw_card`
-
-AKA: `dc`
 
 
 `get_stats`
@@ -67,28 +76,16 @@ AKA: `dc`
 AKA: `gs`
 
 
-`leave_card_game`
+`cards_play_time`
 
-AKA: `lcg`
+AKA: `cpt` `cgt`
 
-
-`join_card_game`
-AKA: `jcg`
-
-
-`reset_deck`
-
-AKA: `rd`
-
+Bulk card commands:
+-------------------
 
 `get_cards`
 
 AKA: `gc`
-
-
-`cards_play_time`
-
-AKA: `cpt` `cgt`
 
 
 `remove_n_cards`
@@ -100,6 +97,21 @@ AKA: `rnc`
 
 AKA: `fish`
 
+Card-playing commands:
+---------------------
+
+`play_card`
+
+AKA: `pc`
+
+
+`draw_card`
+
+AKA: `dc`
+
+
+Table commands:
+--------------
 
 `table_put`
 
