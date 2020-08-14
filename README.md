@@ -2,6 +2,7 @@ GameEd-bot
 ============
 
 A bot to play cards or use as a mafia moderator
+
 Made with discord.py
 
 (Invite link in image)
