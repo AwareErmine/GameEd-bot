@@ -63,6 +63,20 @@ AKA: `dcn` `dnc`
 
 AKA: `rd`
 
+
+Card-playing commands:
+---------------------
+
+`play_card`
+
+AKA: `pc`
+
+
+`draw_card`
+
+AKA: `dc`
+
+
 Getting card info:
 -----------------
 
@@ -96,18 +110,6 @@ AKA: `rnc`
 `fish_cards`
 
 AKA: `fish`
-
-Card-playing commands:
----------------------
-
-`play_card`
-
-AKA: `pc`
-
-
-`draw_card`
-
-AKA: `dc`
 
 
 Table commands:
