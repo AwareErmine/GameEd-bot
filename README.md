@@ -15,6 +15,10 @@ Key features:
    * Plus a "table" for moving around/managing cards
 - Polls/role assignments for playing mafia
 
+Help commands:
+-------------
+
+
 Ways to start/end a card game:
 -------------------------
 `mention_card_game`
@@ -135,3 +139,65 @@ AKA: `tn` `nt`
 
 `table`
 AKA: `t`
+
+
+Ways to join/leave a mafia game:
+---------------------------
+
+`mention_mafia_game`
+
+AKA: `mmg`
+
+Start a mafia game with whoever you mention (bonus roles if you have 8+ players!)
+
+
+`voice_mafia_game`
+
+AKA: `vmg`
+
+Start a mafia game with whoever you're in a voice channel with (bonus roles if you have 8+ players!)
+
+
+`react_mafia_game`
+
+AKA: `rmg`
+
+Start a mafia game with whoever reacts to my message (bonus roles if you have 8+ players!)
+
+
+`leave_mafia_game`
+
+AKA: `lmg` `ml` `lm`
+
+You leave the mafia game (works in any channel or if you DM me)
+
+
+`join_mafia_game`
+
+AKA: `jmg`
+
+Join the mafia game of the person you mention
+
+
+Polls:
+-----
+
+`nighttime`
+
+AKA: `night_poll np`
+
+Triggers the nighttime poll
+
+
+`daytime`
+
+AKA: `day_poll dp`
+
+Triggers the daytime poll
+
+Mafia info commands:
+--------------------
+
+`mafia_play_time`
+AKA: `mpt` `mgt`
+How long you've been playing mafia
