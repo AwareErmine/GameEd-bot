@@ -295,4 +295,4 @@ AKA: `sky`
 
 AKA: `ad` `ge`
 
-- Gives a link to invite the bot to another bot
+- Gives a link to invite the bot to another server
