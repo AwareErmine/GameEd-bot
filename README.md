@@ -296,3 +296,11 @@ AKA: `sky`
 AKA: `ad` `ge`
 
 - Gives a link to invite the bot to another server
+
+
+`someone_voice"`
+
+AKA: `sv` `vs`
+
+- Picks a random person in the voice channel with you
+  - Good for playing games like truth or dare!
