@@ -14,6 +14,7 @@ Key features:
 - Playing cards between player direct messages
    * Plus a "table" for moving around/managing cards
 - Polls/role assignments for playing mafia
+- Picking a random person in the voice channel with you
 
 Help commands:
 -------------
@@ -298,7 +299,7 @@ AKA: `ad` `ge`
 - Gives a link to invite the bot to another server
 
 
-`someone_voice"`
+`someone_voice`
 
 AKA: `sv` `vs`
 
