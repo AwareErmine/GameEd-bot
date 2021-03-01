@@ -3,7 +3,9 @@ GameEd-bot
 
 A bot to play cards or use as a mafia moderator
 
-Made with discord.py
+Note: This is from when I first started to code. The code is extremely inefficient and sloppy, but I'm leaving it open for users of the bot to know what's going on behind the scenes. Even though what's going on behind the scenes is so messy. 
+
+Made with discord.py in a Jupyter notebook for whatever reason. 
 
 (Invite link in image)
 
